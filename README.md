@@ -1,4 +1,4 @@
-## 
+## AI fundamentals 
 
 1) Data generator and visualizer (data_generator.py)
 
